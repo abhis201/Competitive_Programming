@@ -34,13 +34,16 @@ This repository contains competitive programming solutions organized by programm
 ### Python Solutions
 - **Python/Arrays/**: Array manipulation problems
   - `Array-into-Subarray.py` - Subarray division
+  - `Brogramming.py` - String transitions counting
   - `Dominant-Element.py` - Dominant element finding
   - `Longest-Good-Array-1.0.py` - Good array sequence
   - `Minimum-Flips-in-Circular-Array.py` - Circular array operations
   - `Odd-Subset.py` - Odd sum subset finding
   - `Powerful-Triplet.py` - Maximum power triplet
   - `Ranking-Elections.py` - Ranking system
+  - `remove_ends.py` - Array prefix sum operations
   - `Simply-Equal.py` - Array equalization
+  - `variety.py` - String manipulation optimization
 
 - **Python/Sorting/**: Sorting related problems
   - `Sorting-Machine.py` - Sorting machine simulation
@@ -55,6 +58,7 @@ This repository contains competitive programming solutions organized by programm
   - `Not-Equal-Pairs.py` - Pair counting with constraints
   - `Optimal-Division.py` - Optimal array division
   - `Perfectly-Filled-Buckets.py` - Bucket filling optimization
+  - `variety_2.py` - Array frequency tracking with hash maps
 
 - **Python/Greedy/**: Greedy algorithm solutions
   - `Minimum-Pairwise-Product.py` - Minimum product pairing
