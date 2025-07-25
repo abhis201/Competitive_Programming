@@ -20,9 +20,13 @@ This repository contains competitive programming solutions organized by programm
 
 - **Java/Math-Number_Theory/**: Mathematical and number theory problems
   - `AliceBob.java` - Mathematical game theory
+  - `BouncyNumbers.java` - Counting bouncy numbers
+  - `ConsecutiveDivisors.java` - Numbers with the same number of divisors
   - `EqualizeArray.java` - Number theory operations
   - `gcd.java` - Greatest Common Divisor
   - `GCDAntonio.java` - GCD finding problem
+  - `PandigitalFibonacci.java` - Fibonacci sequence with pandigital properties
+  - `ReversibleNumbers.java` - Numbers whose sum with their reverse consists of odd digits
 
 - **Java/Hash_Maps-Sets/**: Hash map and set based problems
   - `arrayequality.java` - Array equality using hash structures
@@ -30,6 +34,9 @@ This repository contains competitive programming solutions organized by programm
 
 - **Java/Greedy/**: Greedy algorithm problems
   - `SuperiorMinions.java` - Greedy candy distribution
+
+- **Java/Geometry/**: Geometry problems
+  - `TriangleContainsOrigin.java` - Checking if triangles contain the origin
 
 ### Python Solutions
 - **Python/Arrays/**: Array manipulation problems
@@ -53,6 +60,8 @@ This repository contains competitive programming solutions organized by programm
   - `Divisibility-by-K.py` - Divisibility operations
   - `NP-Problem.py` - Number theory problem
   - `Numbers-of-Array.py` - Combinatorial counting
+  - `PandigitalFibonacci.py` - Fibonacci sequence with pandigital properties
+  - `ReversibleNumbers.py` - Numbers whose sum with their reverse consists of odd digits
 
 - **Python/Hash_Maps-Sets/**: Hash-based data structure problems
   - `Not-Equal-Pairs.py` - Pair counting with constraints
@@ -63,6 +72,9 @@ This repository contains competitive programming solutions organized by programm
 - **Python/Greedy/**: Greedy algorithm solutions
   - `Minimum-Pairwise-Product.py` - Minimum product pairing
   - `Odd-Prefix-2.py` - Prefix arrangement optimization
+
+- **Python/Geometry/**: Geometry problems
+  - `Triangle_Containment.py` - Checking if triangles contain the origin
 
 ## Problem Categories
 
